@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=GGongJae&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
-#  🔥 No pain no gain
+#  🔥 No pain no gain 🔥
 
   
  <br/>
