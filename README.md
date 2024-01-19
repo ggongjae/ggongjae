@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=GGongJae&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=🤪GGongJae🤪&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fggongjae&count_bg=%2379C83D&title_bg=%23555555&icon=bloglovin.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
   
