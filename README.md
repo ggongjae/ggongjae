@@ -7,7 +7,6 @@
 #  🔥 Let bravery be thy choice, but not bravado 🔥
 
 
-"I don't envision this study becoming my main source of income rather, I yearn for it to blossom into a cherished hobby. My goal is to immerse myself in it without the burden of stress, embracing it purely for the joy and fulfillment it brings."
 
  <br/>
  <br/>
